@@ -19,6 +19,6 @@ var express = require('express'),
 //Diz ao Express que o diretorio web contem conteudos estaticos
 app.use(express.static(__dirname + '/web'));
 
-//Exporta os mÃ³dulos
+
 module.exports.socketServer = io;
 module.exports.webServer = httpServer;
