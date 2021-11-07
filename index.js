@@ -11,5 +11,5 @@ var Server = require('./server'),
 
     userHandling = new UserHandling(socketServer);
 
-webServer.listen();
+webServer.listen(9000);
 
