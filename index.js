@@ -11,5 +11,3 @@ var Server = require('./server'),
 
     userHandling = new UserHandling(socketServer);
 
-//Inicia o web server na porta 9000
-webServer.listen(9000);
