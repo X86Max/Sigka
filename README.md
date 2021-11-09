@@ -1,3 +1,3 @@
 # Sigka
 
-<img src="web/styles/sigka.gif"
+<img src="web/styles/sigka.gif">
