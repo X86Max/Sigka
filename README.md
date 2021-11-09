@@ -12,4 +12,4 @@ Deu F5? As conversas sumiram! Ao menos que estivesse aberto em outra aba, ou tiv
 
 # Fontes
 
-O código foi extraído do DevMedia. Assim, creditamos aos autores do código, e permanecemos com a MIT License. Você pode acessar o artigo da rede social no DevMedia <a href="devmedia.com.br/node-js-criando-uma-rede-social/31037">clicando aqui</a>
+O código foi extraído do DevMedia. Assim, creditamos aos autores do código, e permanecemos com a MIT License. Você pode acessar o artigo da rede social no DevMedia <a href="devmedia.com.br/node-js-criando-uma-rede-social/31037">clicando aqui!</a>
