@@ -11,5 +11,5 @@ var Server = require('./server'),
 
     userHandling = new UserHandling(socketServer);
 
-webServer.listen(9000);
+webServer.listen(process.env.PORT || 9000);
 
