@@ -6,6 +6,8 @@ Bem vindo ao SIGKA! A nova rede social!
 
 Acesse! É grátis!
 
+O SIGKA foi ao ar dia 09 de novembro de 2021!
+
 # Deslogou? Apagou!
 
 Deu F5? As conversas sumiram! Ao menos que estivesse aberto em outra aba, ou tivesse print, isso sumiu! (A não ser que você faça novamente).
